@@ -93,7 +93,13 @@ Model R² Score: 0.91
 
 ## 👨‍💻 Author
 
-##Satyanarayana Dasari##
-ML & AI Enthusiast | Open Source Contributor
+Satyanarayana Dasari
+-ML & AI Enthusiast | Open Source Contributor
 
 ---
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Used-in%20Project-orange?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-yellow?logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
