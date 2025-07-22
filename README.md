@@ -64,7 +64,7 @@ pip install numpy pandas scikit-learn
 ### ▶️ Run the Script
 
 ```bash
-python your_script.py
+python App.py
 ```
 
 ---
