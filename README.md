@@ -72,7 +72,7 @@ python your_script.py
 ## 📈 Sample Output
 
 ```
-Model R² Score: 0.91
+Model R² Score: 0.88
 ```
 
 ---
