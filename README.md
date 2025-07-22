@@ -1,14 +1,5 @@
 # 💼 Employee Salary Prediction Using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-Used-in%20Project-orange?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-yellow?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
-
 ## 📊 Project Overview
 
 This project builds a **Random Forest Regression Model** to predict employee salaries based on:
@@ -41,6 +32,13 @@ Synthetic data is generated to simulate real-world HR salary predictions.
 | 🐼 Pandas       | Data Manipulation        |
 | 🤖 Scikit-learn | Machine Learning Model   |
 | 💾 Pickle       | Model Serialization      |
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Used-in%20Project-orange?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-yellow?logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
@@ -95,7 +93,7 @@ Model R² Score: 0.91
 
 ## 👨‍💻 Author
 
-**[Your Name Here]**  
+Satyanarayana Dasari
 ML & AI Enthusiast | Open Source Contributor
 
 ---
