@@ -1,0 +1,1 @@
+Model R² Score: 0.88
