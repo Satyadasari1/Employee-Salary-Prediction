@@ -33,12 +33,13 @@ Synthetic data is generated to simulate real-world HR salary predictions.
 | 🤖 Scikit-learn | Machine Learning Model   |
 | 💾 Pickle       | Model Serialization      |
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-Used-in%20Project-orange?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-yellow?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pickle](https://img.shields.io/badge/Pickle-FFE873?style=for-the-badge&logo=python&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=mlflow&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
