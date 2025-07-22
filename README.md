@@ -94,6 +94,7 @@ Model R² Score: 0.91
 ## 👨‍💻 Author
 
 Satyanarayana Dasari
----ML & AI Enthusiast | Open Source Contributor
+
+ML & AI Enthusiast | Open Source Contributor
 
 ---
