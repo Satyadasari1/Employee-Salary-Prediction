@@ -17,7 +17,7 @@ Synthetic data is generated to simulate real-world HR salary predictions.
 
 - ✅ **Random Forest Regression Model**  
 - ✅ **Synthetic Dataset Generation** (500 records)  
-- ✅ Achieved **R² Score of ~0.91**  
+- ✅ Achieved **R² Score of ~0.88**  
 - ✅ **Model Saved as `salary_model.pkl`**  
 - ✅ **Dataset Saved as `salary_data.csv`**
 
